@@ -1,0 +1,72 @@
+@media screen and (max-width: 900px) and (min-width: 800px) {
+}
+#logo {
+  background-color: #4aaaa7;
+  color: #ffffff;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  padding: 22px 120px;
+  flex-wrap: wrap;
+}
+
+#header {
+  padding: -8px;
+}
+
+footer {
+  color: #777777;
+  background-color: #777777;
+  border-top: 8px solid #4aaaa5;
+  height: 10vh;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.background {
+  background: url("https://www.toptal.com/designers/subtlepatterns/patterns/green_gobbler.png");
+}
+.Message {
+  padding-left: 15px;
+}
+hr {
+  width: auto;
+  border: 1px solid lightgray;
+}
+.card {
+  margin: 25px;
+}
+h4 {
+  color: grey;
+}
+.btn-secondary {
+  background-color: #4aaaa7;
+  border-color: #4aaaa7;
+  margin-left: 20px;
+  border-radius: round;
+  font-family: "Fira Sans", sans-serif;
+}
+h2 {
+  font-family: "Fira Sans", sans-serif;
+}
+.text-primary {
+  color: #4aaaa7 !important;
+}
+h1 {
+  font-family: "Fira Sans", sans-serif;
+}
+.nav-link {
+  padding: 0 1rem;
+  margin-inline-end: -12px;
+  padding-left: 1.1rem !important;
+  padding-right: 0.5rem !important;
+}
+p {
+  line-height: 35px;
+  font-weight: 600;
+}
